@@ -2,6 +2,5 @@
 # robežās no 101 līdz 500. Izvēlētie skaitļi tiek izvadīti terminālī.
 
 import random
-
-for skaitli in range (101,500):
-    
+for _ in range (100):
+    print(random.randint(101,500), end=" ")
