@@ -3,4 +3,5 @@
 
 import random
 
-y
+for skaitli in range (101,500):
+    
